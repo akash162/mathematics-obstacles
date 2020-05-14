@@ -1,0 +1,51 @@
+*{
+margin:0;
+padding:0;
+
+}
+.ct{
+    width:1000px;
+    height:500px;
+margin:0 auto;
+padding:20px;
+background: rgb(235, 230, 230);
+}
+.common-div{
+
+  float:left;
+  
+  
+}
+.header-bio{
+    padding:20px;
+    margin:10px;
+}
+.rounded{
+    border-bottom-right-radius:2.65rem;
+    border-top-left-radius:2.65rem;
+
+
+}
+.clear-div{
+    clear:both;
+}
+hr{
+    border:1px solid black;
+}
+.div1{
+
+    float:left;
+    width:55%;
+
+    
+}
+.div1a{
+
+    padding-left: 30px;
+}
+
+.div2{
+    float:right;
+    width:45%;
+}
+
